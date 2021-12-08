@@ -88,7 +88,7 @@ OTU: operational taxonomic unit. Es una entidad abstracta que se utiliza para tr
 
 El pipeline de QIIME utiliza el comando pick_otus.py para este paso. No obstanto, este script va a intentar en vano crear las OTUs, gastando recursos computacionales y tiempo en el proceso. Por ello, podemos generar una tabla de OTUs “fake” con el siguiente script de python. El output imita el formato resultante de pick_otus.py, pero el tiempo de computación es mucho menor.
 
-Para ello se utiliza el script fakePickOTUs.py
+Para ello se utiliza el script [fakePickOTUs.py](https://github.com/adlape95/ONT-16S-BLAST-and-QIIME/blob/main/fakePickOTUs.py)
 
 ```{bash}
 python fakePickOTUs.py combined_seqs.fna > combined_seqs_otus.txt
