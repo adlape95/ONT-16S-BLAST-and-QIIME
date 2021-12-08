@@ -2,7 +2,7 @@
 
 Última actualización: 10 de mayo de 2020
 
-Este pipeline se base el uso de BLAST (dentro de la interfaz de [QIIME](http://qiime.org/)) para asignar la taxonomía a cada una de las secuencias generadas por MinION (o cualquier otra plataforma de *[Oxford Nanopore Technologies](https://nanoporetech.com/)*; ONT)
+Este pipeline se basa en el uso de BLAST (dentro de la interfaz de [QIIME](http://qiime.org/)) para asignar la taxonomía a cada una de las secuencias generadas por MinION (o cualquier otra plataforma de *[Oxford Nanopore Technologies](https://nanoporetech.com/)*; ONT)
 
 *Nota*: mantengo este repositorio por reproducibilidad, aunque el protocolo [Spaghetti](https://github.com/adlape95/Spaghetti) es más recomendable generalmente para este tipo de análisis.
 
