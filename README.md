@@ -6,7 +6,7 @@ Este pipeline se basa en el uso de BLAST (dentro de la interfaz de [QIIME](http:
 
 *Nota*: mantengo este repositorio por reproducibilidad, aunque el protocolo [Spaghetti](https://github.com/adlape95/Spaghetti) es más recomendable generalmente para este tipo de análisis.
 
-## 1. PREPROCESAMIENTO DE DATOS
+## 1. Preprocesamiento de datos
 
 El primer paso para el análisis metataxonómico es el preprocesamiento de datos. Para ello hay que seguir las siguientes indicaciones:
 
